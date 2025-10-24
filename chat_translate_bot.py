@@ -4,8 +4,8 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # ================= CONFIG ==================
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-OPENAI_API_KEY = "YOUR_OPENAI_API_KEY"
+BOT_TOKEN = "8270389402:AAGiEKdzmgTzVytHguUVSEB1pydGj-eH2Nk"
+OPENAI_API_KEY = "Authorization: Bearer OPENAI_API_KEY"
 
 openai.api_key = OPENAI_API_KEY
 # ==========================================
